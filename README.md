@@ -20,12 +20,14 @@ DAFTAR DAN FUNGSI BERKAS:
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
      
   3. 03_konversi_suhu.py: file yang berisikan kode program untuk menerima input berupa besaran suhu dalam derajat celcius         untuk diproses dan kemudian menampilkan outuput berupa hasil konversi suhu dari satuan celcius ke dalam satuan               fahrenheit dan satuan kelvin.
+      ## Cara menjalankan
       ```bash
      python latihan/03_konversi_suhu.py
      ```
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
 
   4. 04_nilai_akhir.py: file berisi kode program untuk menerima input berupa nilai tugas, nilai uts, dan nilai uas untuk          diproses dan menghasilkan outuput berupa nilai akhir, nilai tugas, nilai uts, dan nilai uas.
+      ## Cara menjalankan
       ```bash
      python latihan/04_nilai_akhir.py
      ```
