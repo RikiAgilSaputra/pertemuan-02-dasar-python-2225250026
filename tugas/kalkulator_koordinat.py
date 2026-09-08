@@ -5,7 +5,7 @@ y_titik_A = float(input("masukkan koordinat y (ordinat)untuk koordinat titik A:"
 x_titik_B = float(input("masukkan koordinat x (absis)untuk koordinat titik B:"))
 y_titik_B = float(input("masukkan koordinat y (ordinat)untuk koordinat titik B:"))
 
-#hitung perubahan koordinat, jarak, dan titik tengah
+#menghitung perubahan koordinat, jarak, dan titik tengah
 dx = x_titik_B - x_titik_A
 dy = y_titik_B - y_titik_A
 Jarak_A_dan_B = ((dx**2) + (dy**2))**0.5
