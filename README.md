@@ -53,7 +53,7 @@ TABEL TEST CASE
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.5, 1) |
 
 REFLEKSI
-<<<<<<< HEAD
+
 • Konsep yang paling saya pahami adalah konsep variabel dan konstanta karena konsep tersebut sudah saya pelajari sebelumnya pada mata pelajaran matematika saat SMP dan SMA
 • Kesalahan yang saya temukan adalah saya terkadang tidak teliti dalam penulisan kode program dan saya memperbaikinya dengan menuliskan kode program secara perlahan serta memeriksa kembali setiap kode program yang saya buat
 • Pada pertemuan berikutnya saya ingin lebih memahami cara berlogika yang lebih baik dalam mengimplementasikan kode program untuk pemecahan masalah
