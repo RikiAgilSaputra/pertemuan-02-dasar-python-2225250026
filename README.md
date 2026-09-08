@@ -61,10 +61,6 @@ REFLEKSI
 SUMBER
 https://harianmuba.disway.id/utama/read/655140/umur-seseorang-bisa-diprediksi-ini-jawabannya-menurut-ilmu-sains.
 
-=======
-
-Ilmu tentang pemrograman sangat memerlukan pemahaman yang mendalam. Ilmu ini juga memerlukan praktek sebagai bagian utama dalam pembelajaran. Kesalahan-kesalahan yang dilakukan dapat dijadikan bahan pembelajaran untuk ke depannya dapat memperbaiki dan meningkatkan kemampuan diri.
->>>>>>> 9512f19d5f9918f1edd3653e40baf2ad612b8aba
 
  
                                               
