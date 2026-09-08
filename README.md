@@ -40,13 +40,13 @@ DAFTAR DAN FUNGSI BERKAS:
      ```
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
 
-TABEL TEST CASE
+                            ##TABEL TEST CASE
 
-| Kasus | A | B | Jarak | Titik tengah |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | (0, 0) | (3, 4) | 5.00 | (1.5, 2.0) |
-| 2 | (-2, 1) | (4, 1) | 6.00 | (1.0, 1.0) |
-| 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.5, 1) |
+               | Kasus | A | B | Jarak | Titik tengah |
+               | :---: | :---: | :---: | :---: | :---: |
+               | 1 | (0, 0) | (3, 4) | 5.00 | (1.5, 2.0) |
+               | 2 | (-2, 1) | (4, 1) | 6.00 | (1.0, 1.0) |
+               | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.5, 1) |
  
                                               
 
