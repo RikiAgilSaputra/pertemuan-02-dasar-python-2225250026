@@ -6,6 +6,7 @@ TUJUAN:Repositori ini ditujukan untuk menyimpan berbagai file tugas untuk mata k
 
 DAFTAR DAN FUNGSI BERKAS:
   1. 01_biodata.py: file yang berisi program untuk menerima input berupa nama, NIM, kelas, dan tahun kelahiran untuk              diproses dan memberikan output berupa sebuah kartu biodata berisikan nama, NIM, kelas, dan umur.
+     
      Cara menjalankan
      ```bash
      python latihan/01_biodata.py
@@ -13,6 +14,7 @@ DAFTAR DAN FUNGSI BERKAS:
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
      
   2. 02_persegi_panjang.py: file yang berisi kode program untuk menerima input berupa panjang dan lebar untuk diproses dan        memberikan output berupa keliling dan luas persegi panjang.
+     
      Cara menjalankan
      ```bash
      python latihan/02_persegi_panjang.py
@@ -20,6 +22,7 @@ DAFTAR DAN FUNGSI BERKAS:
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
      
   3. 03_konversi_suhu.py: file yang berisikan kode program untuk menerima input berupa besaran suhu dalam derajat celcius         untuk diproses dan kemudian menampilkan outuput berupa hasil konversi suhu dari satuan celcius ke dalam satuan               fahrenheit dan satuan kelvin.
+     
       Cara menjalankan
       ```bash
      python latihan/03_konversi_suhu.py
@@ -27,6 +30,7 @@ DAFTAR DAN FUNGSI BERKAS:
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
 
   4. 04_nilai_akhir.py: file berisi kode program untuk menerima input berupa nilai tugas, nilai uts, dan nilai uas untuk          diproses dan menghasilkan outuput berupa nilai akhir, nilai tugas, nilai uts, dan nilai uas.
+     
       Cara menjalankan
       ```bash
      python latihan/04_nilai_akhir.py
@@ -34,6 +38,7 @@ DAFTAR DAN FUNGSI BERKAS:
     Pada macOS atau Linux, gunakan `python3` jika diperlukan.
 
   5. kalkulator_koordinat.py: file berisi kode program untuk menerima input berupa titik x dan y untuk koordinat titik A dan      B untuk diproses dan menghasilkan output berupa Menampilkan koordinat input, dx, dy, jarak, dan titik tengah dengan dua      angka desimal.
+     
      Cara menjalankan
      ```bash
      python tugas/kalkulator_koordinat.py
@@ -48,6 +53,7 @@ TABEL TEST CASE
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.5, 1) |
 
 REFLEKSI
+<<<<<<< HEAD
 • Konsep yang paling saya pahami adalah konsep variabel dan konstanta karena konsep tersebut sudah saya pelajari sebelumnya pada mata pelajaran matematika saat SMP dan SMA
 • Kesalahan yang saya temukan adalah saya terkadang tidak teliti dalam penulisan kode program dan saya memperbaikinya dengan menuliskan kode program secara perlahan serta memeriksa kembali setiap kode program yang saya buat
 • Pada pertemuan berikutnya saya ingin lebih memahami cara berlogika yang lebih baik dalam mengimplementasikan kode program untuk pemecahan masalah
@@ -55,6 +61,10 @@ REFLEKSI
 SUMBER
 https://harianmuba.disway.id/utama/read/655140/umur-seseorang-bisa-diprediksi-ini-jawabannya-menurut-ilmu-sains.
 
+=======
+
+Ilmu tentang pemrograman sangat memerlukan pemahaman yang mendalam. Ilmu ini juga memerlukan praktek sebagai bagian utama dalam pembelajaran. Kesalahan-kesalahan yang dilakukan dapat dijadikan bahan pembelajaran untuk ke depannya dapat memperbaiki dan meningkatkan kemampuan diri.
+>>>>>>> 9512f19d5f9918f1edd3653e40baf2ad612b8aba
 
  
                                               
