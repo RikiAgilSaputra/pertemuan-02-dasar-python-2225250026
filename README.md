@@ -2,7 +2,7 @@ NAMA: Riki Agil Saputra
 NIM: 2225250026
 KELAS: 3A
 
-TUJUAN:Repositori ini ditujukan untuk menyimpan berbagai file tugas untuk mata kuliah algoritma dan pemrograman padapertemuan         kedua
+TUJUAN:Repositori ini ditujukan untuk menyimpan berbagai file tugas untuk mata kuliah algoritma dan pemrograman pada pertemuan kedua
 
 DAFTAR DAN FUNGSI BERKAS:
   1. 01_biodata.py: file yang berisi program untuk menerima input berupa nama, NIM, kelas, dan tahun kelahiran untuk              diproses dan memberikan output berupa sebuah kartu biodata berisikan nama, NIM, kelas, dan umur.
@@ -48,7 +48,13 @@ TABEL TEST CASE
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.5, 1) |
 
 REFLEKSI
-Ilmu tentang pemrograman sangat memerlukan pemahaman yang mendalam. Ilmu ini juga memerlukan praktek sebagai bagian utama dalam pembelajaran. Kesalahan-kesalahan yang dilakukan dapat dijadikan bahan pembelajaran untuk ke depannya dapat memperbaiki dan meningkatkan kemampuan diri.
+• Konsep yang paling saya pahami adalah konsep variabel dan konstanta karena konsep tersebut sudah saya pelajari sebelumnya pada mata pelajaran matematika saat SMP dan SMA
+• Kesalahan yang saya temukan adalah saya terkadang tidak teliti dalam penulisan kode program dan saya memperbaikinya dengan menuliskan kode program secara perlahan serta memeriksa kembali setiap kode program yang saya buat
+• Pada pertemuan berikutnya saya ingin lebih memahami cara berlogika yang lebih baik dalam mengimplementasikan kode program untuk pemecahan masalah
+
+SUMBER
+https://harianmuba.disway.id/utama/read/655140/umur-seseorang-bisa-diprediksi-ini-jawabannya-menurut-ilmu-sains.
+
 
  
                                               
